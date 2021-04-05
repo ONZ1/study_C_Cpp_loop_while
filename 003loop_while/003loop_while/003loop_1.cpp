@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <iostream>
 
 int main(void)
 {
@@ -20,6 +20,5 @@ int main(void)
 		section += 4;
 	}
 
-	return 0;
 	fgetc(stdin);
 }
