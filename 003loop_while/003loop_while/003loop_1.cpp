@@ -20,6 +20,6 @@ int main(void)
 		section += 4;
 	}
 
-	fgetc(stdin);
 	return 0;
+	fgetc(stdin);
 }
